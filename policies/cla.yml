@@ -20,6 +20,7 @@ configuration:
          - reunion-maestro[bot]
          - renovate[bot]
          - microsoft-github-policy-service[bot]
+         - dotnet-policy-service[bot]
          - msftbot[bot]
          - azure-pipelines[bot]
          - prmerger-test[bot]
